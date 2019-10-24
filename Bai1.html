@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tìm số lớn nhất trong mảng</title>
+</head>
+<body>
+<script>
+    let array=[11,5,2,7,-1,6,5];
+    let max=array[0];
+
+    function findMaxScore(array) {
+
+        for (let i=0;i<array.length;i++){
+            if (array[i]>max){
+                max=array[i];
+            }
+        }
+        document.write("Số lớn nhất trong mảng array: "+array+" là :"+max);
+    }
+    findMaxScore();
+
+
+</script>
+</body>
+</html>
