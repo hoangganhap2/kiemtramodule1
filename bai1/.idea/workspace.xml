@@ -16,14 +16,11 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectId" id="1Sdi0dPufbFbhgpiQTlm3rCirTf" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Case Studio/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Case Studio/index.html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571899652573</updated>
-      <workItem from="1571899655232" duration="6197000" />
+      <workItem from="1571899655232" duration="6411000" />
     </task>
     <servers />
   </component>
